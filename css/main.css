@@ -22,7 +22,7 @@ html {
   width: 100px;
   height: 100px;
   position: absolute;
-/*  background-color: red;*/
+  background-color: red;
   border-radius: 50px;
   transition: all 0.27s ease;
 }
